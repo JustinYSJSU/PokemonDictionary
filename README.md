@@ -4,6 +4,9 @@ This is my PokemonDictionary project from CS46B (Intro to Data Structures and Al
 ``You only need to download the pokemonProj.jar file if you want to run the project (see How to Run) 
 ``If you only want to view the code, check the pokemonDictionary folder instead``
 
+# Technologies
+- Java (Ver 15 or higher)
+
 # Goal
 The goal of this project was to implement CSV file reading combined with knowledge of Data Structures in order to sort and categorize Pokemon character data
 
