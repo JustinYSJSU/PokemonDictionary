@@ -11,7 +11,7 @@ public class Character implements Comparable<Character>
 	private String name;
 	private int hp;	
 	private int is_legendary;
-    private String realAbilities;
+        private String realAbilities;
 	private String abilities;
 	
 	
