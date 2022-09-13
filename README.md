@@ -11,6 +11,7 @@ The goal of this project was to implement CSV file reading combined with knowled
   - Windows: Open the command prompt and type ``java -version``
   - Mac/Linux: Open the terminal and type ``java -version``
 
+# How to Run
 - Download the ``pokemonProj.jar`` file
 - On your command prompt / ternimal, navigate to the directory where ``pokemonProj.jar`` is located.
 - Use the command ``java -jar pokemonProj.jar`` to run the project
