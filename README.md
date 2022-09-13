@@ -1,7 +1,7 @@
 # SJSU CS46B (Intro to Data Structures and Alogirthms) Pokemon Dictionary Project
 This is my PokemonDictionary project from CS46B (Intro to Data Structures and Algorithms) @ SJSU. This project reads Pokemon data from a given .csv file and creates Pokemon objects and sorts them based off of various criteria. 
 
-``You only need to download the pokemonProj.jar file if you want to run the project (see How to Run) 
+``You only need to download the pokemonProj.jar file if you want to run the project (see How to Run)``
 ``If you only want to view the code, check the pokemonDictionary folder instead``
 
 # Technologies
